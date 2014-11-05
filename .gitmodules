@@ -1,0 +1,18 @@
+[submodule "docker-laravel"]
+	path = docker-laravel
+	url = git@github.com:niaquinto/docker-laravel.git
+[submodule "docker-gradle"]
+	path = docker-gradle
+	url = git@github.com:niaquinto/docker-gradle.git
+[submodule "docker-grails"]
+	path = docker-grails
+	url = git@github.com:niaquinto/docker-grails.git
+[submodule "docker-maven"]
+	path = docker-maven
+	url = git@github.com:niaquinto/docker-maven.git
+[submodule "docker-jetty"]
+	path = docker-jetty
+	url = git@github.com:niaquinto/docker-jetty.git
+[submodule "docker-jenkins"]
+	path = docker-jenkins
+	url = git@github.com:niaquinto/docker-jenkins.git
